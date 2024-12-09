@@ -1,5 +1,5 @@
 # Hi, I'm Joshua Macanip!
-## Hobbyist Full-Stack Developer from the Philippines. 💻😊
+## Hobbyist Odin Student Full-Stack Developer from the Philippines. 💻😊
 ### Nickname?, DahDahDahRen 👋
 
 - 👀 I’m interested in all things related to Cat, Anime, Law, and other things.
